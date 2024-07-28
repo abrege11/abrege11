@@ -1,5 +1,7 @@
-## Hi there 👋
+## Abraham Brege - About Me
+I am a software engineer from Michigan, I enjoy studies in the Theory of Computation with a focus in Quantum Computing. I am currently a senior at Northern Michigan University and plan to continue my academic career pursuing a Masters degree in Computer Science.
 
+For more information about me, visit abrege11.github.io
 <!--
 **abrege11/abrege11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
