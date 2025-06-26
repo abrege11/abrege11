@@ -1,7 +1,7 @@
 ## Abraham Brege - About Me
-I am a software engineer from Michigan, I enjoy studies in the Theory of Computation with a focus in Quantum Computing. I am currently a senior at Northern Michigan University and a Backend Web Development Intern at Northcross Group. I plan to continue my academic career pursuing a Masters degree in Computer Science.
+I am currently a prospective PhD student studying QEC while also interested in the methods of education for quantum algorithms. I work as a Full Stack Web Developer at Northcross Group full time developing web applications using React and Node.js. 
 
-For more information about me, visit abrege11.github.io
+My current project is PQCV, which visualizes quantum circuits constructed by the user. My goal is to explore the new ways that could help new students understand the subject.
 <!--
 **abrege11/abrege11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
