@@ -10,8 +10,13 @@ My goal with PQCV is to explore the new ways that could help new students unders
 I work as a Full Stack Web Developer at Northcross Group full time developing web applications using React and Node.js. 
 
 ## Education
-BS in Computer Science, Minor in Mathematics | Northern Michigan University
-AA in Computer Information Systems | Alpena Community College
+### Northern Michigan University
+
+**BS** in Computer Science, Minor in Mathematics
+
+### Alpena Community College
+
+**AA** in Computer Information Systems
 
 <!--
 **abrege11/abrege11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
